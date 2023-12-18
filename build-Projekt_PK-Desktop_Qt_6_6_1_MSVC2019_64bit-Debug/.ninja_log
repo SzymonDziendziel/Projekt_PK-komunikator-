@@ -1,0 +1,14 @@
+# ninja log v5
+7	299	7246119332508162	Projekt_PK_autogen/timestamp	fd70ca795dcbaa39
+7	299	7246119332508162	Projekt_PK_autogen/mocs_compilation.cpp	fd70ca795dcbaa39
+7	299	7246119332508162	E:/PK semestr 3/Projekt_PK/build-Projekt_PK-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Projekt_PK_autogen/timestamp	fd70ca795dcbaa39
+7	299	7246119332508162	E:/PK semestr 3/Projekt_PK/build-Projekt_PK-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Projekt_PK_autogen/mocs_compilation.cpp	fd70ca795dcbaa39
+324	648	7246119336437804	CMakeFiles/Projekt_PK.dir/friend_list.cpp.obj	d817861426c4b4be
+312	2209	7246119351943231	CMakeFiles/Projekt_PK.dir/user.cpp.obj	b956236f3f9a2feb
+329	2212	7246119352042960	CMakeFiles/Projekt_PK.dir/messages.cpp.obj	314c62f3a3ec8c2e
+321	2308	7246119352937813	CMakeFiles/Projekt_PK.dir/group.cpp.obj	7ebfd198d85c46c
+316	2318	7246119352858029	CMakeFiles/Projekt_PK.dir/chat.cpp.obj	55b9a5b1709bf5b2
+300	3227	7246119362207022	CMakeFiles/Projekt_PK.dir/Projekt_PK_autogen/mocs_compilation.cpp.obj	469fd981630007e0
+307	3311	7246119363024838	CMakeFiles/Projekt_PK.dir/mainwindow.cpp.obj	8d3bff7bb121ffc8
+304	3335	7246119363294117	CMakeFiles/Projekt_PK.dir/main.cpp.obj	ec9c6b582c983e9b
+3335	3740	7246119366951215	Projekt_PK.exe	c996a98d5a4cf22f
